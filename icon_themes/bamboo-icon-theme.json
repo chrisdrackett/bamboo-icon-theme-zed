@@ -76,7 +76,9 @@
 				"git-history": "git",
 				"GIT-HISTORY": "git",
 				"Git-history": "git",
-				"pdxinfo": "playdate"
+				"pdxinfo": "playdate",
+				"makefile": "tools",
+				"Makefile": "tools"
 			},
 			"file_suffixes": {
 				"svg": "image",
