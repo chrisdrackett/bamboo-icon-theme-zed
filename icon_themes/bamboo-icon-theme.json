@@ -21,7 +21,9 @@
 				"tools": { "path": "./icons/tools.svg" },
 				"code": { "path": "./icons/code.svg" },
 				"git": { "path": "./icons/git.svg" },
-				"playdate": { "path": "./icons/playdate.svg" }
+				"playdate": { "path": "./icons/playdate.svg" },
+				"diff": { "path": "./icons/diff.svg" },
+				"sh": { "path": "./icons/sh.svg" }
 			},
 			"file_stems": {
 				"app.json": "settings",
@@ -103,6 +105,10 @@
 				"json": "code",
 				"py": "code",
 				"lua": "code",
+				"go": "code",
+				"mod": "code",
+				"rs": "code",
+				"clj": "code",
 				"html": "template",
 				"test": "test",
 				"stories": "test",
@@ -117,8 +123,12 @@
 				"env": "settings",
 				"template": "template",
 				"yml": "settings",
+				"yaml": "settings",
 				"app.json": "settings",
-				"now.json": "settings"
+				"now.json": "settings",
+				"diff": "diff",
+				"patch": "diff",
+				"sh": "sh"
 			}
 		}
 	]
